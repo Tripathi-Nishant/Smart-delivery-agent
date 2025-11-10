@@ -20,5 +20,5 @@ It helps e-commerce and logistics businesses save time, reduce costs, and improv
 
 
 
-git clone https://github.com/yourusername/smart-delivery-agent.git
+git clone https://github.com/Tripathi-Nishant/Smart-delivery-agent.git
 cd smart-delivery-agent
